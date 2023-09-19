@@ -1,1 +1,0 @@
-import "./Chartbar.css";
